@@ -54,7 +54,7 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com/sourasish22",
   discordLink: "https://discord.gg/EfcEmVC2",
   youtubeLink: "https://www.youtube.com/channel/UCOml3u-76WfEN5p2Q1YZbvg",
 };
